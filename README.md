@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarmenRocks88
 - 👀 I’m interested in geology, programming, mathematics, automation, and travel.
 - 🌱 I’m currently learning how to use github and python.
-- 💞️ I’m looking to collaborate on anything at the moment. 
+- 💞️ I’m looking to collaborate on geospatial projects or community mapping projects.
 - 📫 You can reach me on the bird app at https://twitter.com/CarmenRocks88
 
 <!---
